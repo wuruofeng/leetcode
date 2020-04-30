@@ -28,5 +28,5 @@ var permutation = function (s) {
   return Array.from(set);
 };
 
-console.log(permutation('abc'));
+console.log(permutation('12258'));
 
